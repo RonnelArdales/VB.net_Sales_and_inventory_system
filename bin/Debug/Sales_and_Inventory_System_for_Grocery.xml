@@ -1,0 +1,286 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sales_and_Inventory_System_for_Grocery
+</name>
+</assembly>
+<members>
+<member name="T:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources._20220416_173818_00001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources._8ce8grcfqj4gaqq4sg28jgp5b6_1f286afea8ee1f62529d168e0cbd00c92">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources.Daco_50307461">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources.Exit_button_icon_png_1_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources.hd_shopping_cart_white_logo_icon_transparent_png_11640441682ecem2ohejv_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources.hd_shopping_cart_white_logo_icon_transparent_png_11640441682ecem2ohejv_removebg_preview_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sales_and_Inventory_System_for_Grocery.My.Resources.Resources.hd_shopping_cart_white_logo_icon_transparent_png_11640441682ecem2ohejv_removebg_preview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_actlogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_addcartDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_brandDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_categoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_productDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_productstockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_profileDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_transactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_userDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_actlogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_addcartRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_brandRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_categoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_productRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_productstockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_profileRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_transactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_userRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_actlogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_addcartRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_brandRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_categoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_productRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_productstockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_profileRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_transactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet.tbl_userRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_actlogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_addcartTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_brandTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_categoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_productTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_productstockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_profileTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_transactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.tbl_userTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager.UpdateAll(Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sales_and_Inventory_System_for_Grocery.sales_inventory_system_for_groceryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
